@@ -24,27 +24,18 @@ The exercise is organised in three Jupyter notebooks:
 
 In the first exercise, we will discuss proton transport and how protons propagate along the beamline under LHC magnetic field influence. Beam protons, taking place in diffractive interactions, can be scattered at small angles &theta; (usually measured in &mu;rad) and lose their momentum (typically denoted by &xi;). 
 
-You can consult also with this [video](https://videos.cern.ch/record/2729663) recorded for DAS2020.
+You can also consult with this [video](https://videos.cern.ch/record/2729663) recorded for DAS2020.
 
 ### 2. [Tracker Efficiencies](https://nbviewer.jupyter.org/github/cmsdas/pps-short-exercise/blob/master/PixelEfficiencies.ipynb)  
 
-Tracker efficiencies are crucial to make proton data usable. Protons are available in two reconstruction flavors: singleRP and multiRP. We will now focus on the second category and see how we can extract the adequate efficiency corrections ([video@CMSDAS2020](https://videos.cern.ch/record/2728988)).
+Tracker efficiencies are crucial to make proton data usable. Protons are available in two reconstruction flavors: singleRP and multiRP. We will now focus on the second category and see how we can extract adequate efficiency corrections ([video@CMSDAS2020](https://videos.cern.ch/record/2728988)).
 
-Please open the notebook called 'PixelEfficiencies' and follow [this video](https://videos.cern.ch/record/2729281).
-
+Please open the notebook called 'PixelEfficiencies'. You can also consult [this video](https://videos.cern.ch/record/2729281).
 
 ### 3. [PPS protons in dilepton events](https://nbviewer.jupyter.org/github/cmsdas/pps-short-exercise/blob/master/Dilepton-Protons.ipynb)  
 
-In the third exercise, we will implement what we learned from the first two exercises on the real data. The dataset we will use was recorded during the 2017 data taking period. 
+In the third exercise, we will implement what we learned from the first two exercises on the real data. The dataset we will use was recorded during the 2017 data taking-period. 
 
-We will look on central exclusive production of pair of muons. This measurement was the first obtained with PPS detectors (summarized in [JHEP 07 (2018) 153](https://link.springer.com/article/10.1007/JHEP07(2018)153))
+We will look at the central exclusive production of pair of muons. This measurement was the first obtained with PPS detectors (summarized in [JHEP 07 (2018) 153](https://link.springer.com/article/10.1007/JHEP07(2018)153))
 
 
-### Extra packages 
-
-The installation of the following packages is needed to run the notebook:  
-`python3 -m pip install --user uproot4 awkward1 mplhep`  
-Or in a virtual environment:  
-`python3 -m venv myenv`  
-`. myenv/bin/activate`  
-`python3 -m pip install uproot4 awkward1 mplhep`
