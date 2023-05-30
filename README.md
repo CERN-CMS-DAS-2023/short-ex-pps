@@ -5,13 +5,13 @@ General information on CMSDAS 2023:
 * [All short exercises](https://twiki.cern.ch/twiki/bin/view/CMS/WorkBookExercisesCMSDataAnalysisSchool#CmsDas2020CERN)
 * [Exercise Twiki](https://twiki.cern.ch/twiki/bin/view/CMS/SWGuideCMSDataAnalysisSchoolCERN2023TaggedProtonsShortExercise)
 
-**Video introduction** (from [CMSDAS2020](https://indico.cern.ch/e/cmsvdas2020)): [watch here!](https://videos.cern.ch/record/2730189)
+**Video introduction** (from CMSDAS2020): [watch here!](https://videos.cern.ch/record/2730189)
 
 ## Recommended way to run the exercise (SWAN)
 [![SWAN](https://swanserver.web.cern.ch/swanserver/images/badge_swan_white_150.png)](https://cern.ch/swanserver/cgi-bin/go/?projurl=https://github.com/CERN-CMS-DAS-2023/short-ex-pps.git)
 
 To run the notebooks with regular CERN resources:
-* Open a [SWAN session](https://swan.cern.ch) (the defaults are good, as of writing this pick software stack 102b and make sure to use Python3)
+* Open a [SWAN session](https://swan.cern.ch) (the defaults are good, pick software stack 102b and make sure to use Python3)
 * In the SWAN session, click on the item on the right-hand side that says "Download Project from git" ![Download Project from git](download_project_trim.png)
 * Copy-paste https://github.com/CERN-CMS-DAS-2023/short-ex-pps.git
 * You're all set and can click on the three exercises, `Optical-Functions.ipynb`, `PixelEfficiencies.ipynb`, and `Dilepton-Protons.ipynb`
