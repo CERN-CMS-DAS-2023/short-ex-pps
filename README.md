@@ -34,8 +34,8 @@ Please open the notebook called 'PixelEfficiencies'. You can also consult [this 
 
 ### 3. [PPS protons in dilepton events](https://nbviewer.org/github/cern-cms-das-2023/short-ex-pps/blob/master/Dilepton-Protons.ipynb)  
 
-In the third exercise, we will implement what we learned from the first two exercises on the real data. The dataset we will use was recorded during the 2017 data taking-period. 
+In the third exercise, we will implement what we learned from the first two exercises on the real data. The dataset we will use was recorded during the 2017 data taking-period ([video@CMSDAS2020](https://videos.cern.ch/record/2729660)).
 
 We will look at the central exclusive production of pair of muons. This measurement was the first obtained with PPS detectors (summarized in [JHEP 07 (2018) 153](https://link.springer.com/article/10.1007/JHEP07(2018)153))
 
-
+Please open the notebook called 'Dilepton-Protons'. You can also consult [this video](https://videos.cern.ch/record/2729659).
